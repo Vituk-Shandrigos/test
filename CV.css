@@ -1,0 +1,40 @@
+
+body {
+	background-color: #f1f1f1;
+	/*color:0f141e;*/
+	font-size: 16px;
+	font-weight: normal;
+	font-family: 'Roboto', sans-serif;
+		
+}
+.photo {
+	height: 250px;
+	border-radius: 16px;
+	box-shadow: 0px 0px 14px rgba(76,64,64,0.5)
+}
+
+.info table {
+	/*color: #86898f;*/
+		
+}
+
+/*.skills {
+	background: #83d983;
+	
+}*/
+
+.container {
+	max-width: 1000px;
+	margin: auto;
+	
+	
+}
+
+.card {
+	padding: 10px 20px;
+	background: #cfcfcf;
+	margin-bottom: 20px;
+	border-radius:20px;
+	line-height: 1.3;
+	
+}
